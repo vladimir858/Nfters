@@ -1,4 +1,4 @@
-import './header.css'
+import './headerNav.css'
 
 function HeaderNav() {
 

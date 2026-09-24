@@ -1,0 +1,19 @@
+.button-sign{
+width: 147px;
+height: 62px;
+border-radius: 8px;
+background: var(--black);
+color: var(--white);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.button-contact{
+    display: flex;
+justify-content: center;
+align-items: center;
+width: 147px;
+height: 62px;
+
+}
