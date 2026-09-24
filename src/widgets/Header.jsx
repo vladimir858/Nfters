@@ -1,10 +1,9 @@
-import HeaderNav from "./ui/HeaderNav"
-
+import HeaderNav from "./ui/header/HeaderNav"
 function Header() {
 
 
   return (
-    <header>
+    <header className="header">
     <HeaderNav />
     </header>
   )

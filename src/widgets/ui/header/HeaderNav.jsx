@@ -1,7 +1,10 @@
+import './header.module.css'
+
 function HeaderNav() {
 
 
   return (
+          <div className="container">
     <nav aria-label="Основная навигация"  className="header__nav">
 <ul className="header__list">
 
@@ -34,14 +37,17 @@ function HeaderNav() {
   <li className="header__item"><a href="#" className="header__link">
     Company
     </a></li>
-  <li className="header__item"><a href="#" className="header__link">
+
+  <li className="header__item header__item--authorization"><a href="#" className="header__link">
     Log in
     </a></li>
-  <li className="header__item"><a href="#" className="header__link">
+  <li className="header__item--authorization"><a href="#" className="header__link">
     Sign up
     </a></li>
+
 </ul>
     </nav>
+       </div>
   )
 }
 
