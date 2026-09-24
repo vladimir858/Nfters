@@ -1,3 +1,9 @@
+ :root {
+  --black: #100024;
+  --white: #fff;
+ }
+ 
+ 
  body {
     font-family: 'Roboto';
  }
