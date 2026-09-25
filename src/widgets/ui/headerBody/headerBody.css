@@ -1,0 +1,30 @@
+.header__body-head{
+font-weight: 400;
+font-size: 60px;
+line-height: 113%;
+color: var(--black);
+margin-bottom: 30px;
+max-width: 366px;
+}
+
+.header__body-title{
+    font-size: 18px;
+line-height: 156%;
+color: #34343d;
+margin-bottom: 46px;
+max-width: 444px;
+}
+.header__body-box{
+    justify-content: center;
+    margin-top: 100px;
+    display: flex;
+}
+
+.header__body-wrap{
+    margin-left: 100px;
+}
+
+
+.body-wrap-img{
+    margin-left: 100px;
+}

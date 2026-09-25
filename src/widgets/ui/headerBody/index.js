@@ -1,3 +1,3 @@
-import headerBody from './headerBody'
+import HeaderBody from './HeaderBody'
 
-export default headerBody
+export default HeaderBody
